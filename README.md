@@ -1,4 +1,5 @@
 #### 开源
+- [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
 - [OpenCLI](https://github.com/jackwener/OpenCLI)
 
 #### 文章
