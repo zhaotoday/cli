@@ -1,4 +1,5 @@
 #### 开源
+- [larksuite/cli](https://github.com/larksuite/cli)
 - [OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)
 - [OpenCLI](https://github.com/jackwener/OpenCLI)
 
