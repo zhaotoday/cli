@@ -1,3 +1,6 @@
+#### 网站
+- [clihub](https://clihub.cc/)
+
 #### 开源
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - [playwright-cli](https://github.com/microsoft/playwright-cli)
