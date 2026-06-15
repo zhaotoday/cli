@@ -2,6 +2,7 @@
 - [clihub](https://clihub.cc/)
 
 #### 开源
+- [wecom-cli](https://github.com/WecomTeam/wecom-cli)
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
 - [playwright-cli](https://github.com/microsoft/playwright-cli)
 - [larksuite/cli](https://github.com/larksuite/cli)
