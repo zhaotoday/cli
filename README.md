@@ -2,6 +2,7 @@
 - [clihub](https://clihub.cc/)
 
 #### 开源
+- [DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)
 - [mcp2cli](https://github.com/knowsuchagency/mcp2cli)
 - [wecom-cli](https://github.com/WecomTeam/wecom-cli)
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything)
